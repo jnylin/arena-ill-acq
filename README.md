@@ -6,4 +6,6 @@ Det här är ett mycket enkelt PHP-skript för att komma runt det problemet. I [
 
 Konfiguration sker i [arenamejl.ini](php/arenamejl.ini)
 
-Lämpligen så läggs PHP-delen på en webbserver hos kommunens IT-avdelning.
+Lämpligen läggs PHP-delen på en webbserver hos kommunens IT-avdelning.
+
+Det finns [en film som visar problemet i praktiken](http://jnylin.name/bibl/exempel/arena/epost/)
